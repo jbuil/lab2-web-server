@@ -8,7 +8,7 @@ Some ideas for obtaining a :gift: if you are the first that:
 - **Other server is possible**: Uses a web server different from Tomcat and uses a JUnit-based test to prove it.
 - **Compress-me**: Enables HTTP Response compression and uses a JUnit-based test to prove it.
 - **I-like-XML**: Enables content negotiation in `/time` and provides a JUnit-based test to prove it.
-- ~**CORS what?**: Enables [CORS](https://developer.mozilla.org/es/docs/Web/HTTP/CORS) support and provides a JUnit-based test to prove it.~ solved by [hec7orci7o](https://github.com/Hec7or-Uni/lab1-git-race).
+- ~**CORS what?**: Enables [CORS](https://developer.mozilla.org/es/docs/Web/HTTP/CORS) support and provides a JUnit-based test to prove it.~ solved by [hec7orci7o](https://github.com/Hec7or-Uni/lab2-web-server/tree/work).
 - **No more static**: Replace the `error.html` file by a `ControllerAdvice` and provides a JUnit-based test to prove it.
 
 Repository | NIA    | GitHub Action | Has gift
