@@ -4,7 +4,7 @@ Please, go to the [GUIDE](docs/GUIDE.md) in order to get the instructions for th
 
 Some ideas for obtaining a :gift: if you are the first that:
 
-- **Test-it**: Provides a JUnit-based validation of the tasks.
+- ~**Test-it**: Provides a JUnit-based validation of the tasks.~ Solved by [montisa](https://github.com/motinsa/lab2-web-server/tree/work.)
 - **Other server is possible**: Uses a web server different from Tomcat and uses a JUnit-based test to prove it.
 - **Compress-me**: Enables HTTP Response compression and uses a JUnit-based test to prove it.
 - **I-like-XML**: Enables content negotiation in `/time` and provides a JUnit-based test to prove it.
@@ -17,7 +17,7 @@ Repository | NIA    | GitHub Action | Has gift
 [HugoLazaro](https://github.com/HugoLazaro/lab2-web-server/tree/work) | 801758 | [![Build Status](https://github.com/HugoLazaro/lab2-web-server/actions/workflows/CI.yml/badge.svg?branch=work&event=push)](https://github.com/HugoLazaro/lab2-web-server/actions/workflows/CI.yml) |
 [ibon2](https://github.com/Ibon2/lab2-web-server/tree/work) | 776561 | [![Build Status](https://github.com/Ibon2/lab2-web-server/actions/workflows/CI.yml/badge.svg?branch=work&event=push)](https://github.com/Ibon2/lab2-web-server/actions/workflows/CI.yml) |
 [jbuil](https://github.com/jbuil/lab2-web-server/tree/work) | 797285 | [![Build Status](https://github.com/jbuil/lab2-web-server/actions/workflows/CI.yml/badge.svg?branch=work&event=push)](https://github.com/jbuil/lab2-web-server/actions/workflows/CI.yml) |
-[motinsa](https://github.com/motinsa/lab2-web-server/tree/work) | 797610 | [![Build Status](https://github.com/motinsa/lab2-web-server/actions/workflows/CI.yml/badge.svg?branch=work&event=push)](https://github.com/motinsa/lab2-web-server/actions/workflows/CI.yml) | Plan to implement **Test-it** |
+[motinsa](https://github.com/motinsa/lab2-web-server/tree/work) | 797610 | [![Build Status](https://github.com/motinsa/lab2-web-server/actions/workflows/CI.yml/badge.svg?branch=work&event=push)](https://github.com/motinsa/lab2-web-server/actions/workflows/CI.yml) | :gift: **Test-it** |
 [rubenDTD](https://github.com/rubenDTD/lab2-web-server/tree/work) | 736650 | [![Build Status](https://github.com/rubenDTD/lab2-web-server/actions/workflows/CI.yml/badge.svg?branch=work&event=push)](https://github.com/rubenDTD/lab2-web-server/actions/workflows/CI.yml) | :gift: **No more static** |
 [798523](https://github.com/798523/lab2-web-server/tree/work) | 798523 | [![Build Status](https://github.com/798523/lab2-web-server/actions/workflows/CI.yml/badge.svg?branch=work&event=push)](https://github.com/798523/lab2-web-server/actions/workflows/CI.yml) |
 [pikanachi](https://github.com/pikanachi/lab2-web-server/tree/work) | 610720 | [![Build Status](https://github.com/pikanachi/lab2-web-server/actions/workflows/CI.yml/badge.svg?branch=work&event=push)](https://github.com/pikanachi/lab2-web-server/actions/workflows/CI.yml)
